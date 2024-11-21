@@ -51,16 +51,16 @@ If you enjoy my work and would like to support me, feel free to treat me to a cu
 
 ## 🌍 **Connect with Me**
 - 📍 **Location**: Belgaum, Karnataka, India
-- 📧 **Email**: [shreehari@example.com](mailto:shreehari@example.com)
-- 🌐 **Portfolio**: [shreehariportfolio.com](https://shreehariportfolio.com) (if you have one)
-- 🔗 **LinkedIn**: [linkedin.com/in/shreehari](https://linkedin.com/in/shreehari)
+- 📧 **Email**: [shreehariBhekane07@gmail.com](mailto:shreehariBhekane07@gmail.com)
+- 🌐 **Portfolio**: [shreehariportfolio.com](https://shreehariportfolio.com) 
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/sbcoder175/](https://www.linkedin.com/in/sbcoder175/)
 
 ---
 
 ## 🏆 **Achievements**
 - 🎓 **BCA Graduate** (2024) from **KLE RLS College**
 - 🚀 Completed multiple Udemy courses on **Python**, **Web Development**, and **Machine Learning**
-- 🏆 **Best Final Year Project Award** for my **Chat Genius** project (Chatbot Development)
+- 🏆 **Final Year Project:** Chat Genius (Chatbot Development) – Recognized for Excellence in Innovation and Technical Execution.
 
 ---
 
