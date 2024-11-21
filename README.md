@@ -11,9 +11,9 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 ### My most recent articles
-- [Getting Started with React: A Beginner’s Guide to Setting Up Your First Application](#)
-- [Pushing Your First React App to GitHub: A Step-by-Step Guide](#)
-- [The Ultimate Checklist for Starting a React Project: Best Practices and Tips](#)
+- [Getting Started with Django: A Beginner’s Guide to Setting Up Your First Application](#)
+- [Pushing Your First Django App to GitHub: A Step-by-Step Guide](#)
+- [The Ultimate Checklist for Starting a Django Project: Best Practices and Tips](#)
 
 If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 😌  
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F68026?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/yourusername)
