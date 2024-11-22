@@ -33,13 +33,6 @@ If you enjoy my work and would like to support me, feel free to treat me to a cu
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/shreehari)
 
 ---
-
-## 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreehari&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shreehari&theme=radical" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🌍 **Connect with Me**
