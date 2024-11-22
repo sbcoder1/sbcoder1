@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Shreehari!
 
-I’m a **BCA graduate** and a passionate **full-stack developer** with a deep interest in building **scalable web and mobile applications** that solve real-world problems. I specialize in technologies like **Python**, **MySQL**, **React**, and **Django**, and I am constantly exploring new tools to innovate and improve my skillset. 🚀
+I’m a **BCA graduate** and a passionate **full-stack developer** with a deep interest in building **scalable web and mobile applications** that solve real-world problems. I specialize in technologies like **Python**, **MySQL**, **Java**, and **JavaScript**, and I am constantly exploring new tools to innovate and improve my skillset. 🚀
 
 ---
 
@@ -22,7 +22,7 @@ I’m a **BCA graduate** and a passionate **full-stack developer** with a deep i
 ## 📚 **Recent Projects**
 
 - **[Weather Data Processing and Report Generation System](https://github.com/sbcoder1/My_Learning/tree/main/Weather%20Data%20Processing%20and%20Report%20Generation%20System)**: A real-time weather app using the OpenWeatherMap API to fetch and display weather data with daily summaries and trend analysis.
-- **[System Information Retrieval App](https://github.com/sbcoder1/My_Learning/tree/main/System%20Information%20Retrieval%20App)**: A dynamic rule engine that evaluates eligibility based on conditions, using Python and Abstract Syntax Trees.
+- **[System Information Retrieval App](https://github.com/sbcoder1/My_Learning/tree/main/System%20Information%20Retrieval%20App)**:  A Python-based app that retrieves system information (platform, CPU, memory, and network data) from remote desktops. The app processes the data, stores it in a MySQL database, and generates a Word report for easy access and review.
 - **[CinemaHub: The Ticket Booking App](https://github.com/sbcoder1/My_Learning/tree/main/CinemaHub%20The%20Ticket%20Booking%20App)**: A  ticket booking app developed with **Python**, allowing users to book tickets and manage cinema-related activities.
 
 ---
