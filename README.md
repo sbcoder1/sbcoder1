@@ -8,8 +8,6 @@ I’m a **BCA graduate** and a passionate **full-stack developer** with a deep i
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -23,18 +21,12 @@ I’m a **BCA graduate** and a passionate **full-stack developer** with a deep i
 
 ## 📚 **Recent Projects**
 
-- **[Weather Monitoring App](https://github.com/Shreehari/weather-app)**: A real-time weather app using the OpenWeatherMap API to fetch and display weather data with daily summaries and trend analysis.
-- **[Rule Engine with AST](https://github.com/Shreehari/rule-engine-ast)**: A dynamic rule engine that evaluates eligibility based on conditions, using Python and Abstract Syntax Trees.
-- **[Expense Tracker App](https://github.com/Shreehari/expense-tracker)**: A mobile-friendly expense tracker application developed with **React Native**, allowing users to manage daily expenses.
+- **[Weather Data Processing and Report Generation System](https://github.com/sbcoder1/My_Learning/tree/main/Weather%20Data%20Processing%20and%20Report%20Generation%20System)**: A real-time weather app using the OpenWeatherMap API to fetch and display weather data with daily summaries and trend analysis.
+- **[System Information Retrieval App](https://github.com/sbcoder1/My_Learning/tree/main/System%20Information%20Retrieval%20App)**: A dynamic rule engine that evaluates eligibility based on conditions, using Python and Abstract Syntax Trees.
+- **[CinemaHub: The Ticket Booking App](https://github.com/sbcoder1/My_Learning/tree/main/CinemaHub%20The%20Ticket%20Booking%20App)**: A  ticket booking app developed with **Python**, allowing users to book tickets and manage cinema-related activities.
 
 ---
 
-## ✍️ **Recent Articles**
-- [Getting Started with React: A Beginner’s Guide to Setting Up Your First Application](#)
-- [Pushing Your First React App to GitHub: A Step-by-Step Guide](#)
-- [The Ultimate Checklist for Starting a React Project: Best Practices and Tips](#)
-
----
 
 ## ☕ **Support Me**
 If you enjoy my work and would like to support me, feel free to treat me to a cup of coffee or tea!  
