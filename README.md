@@ -38,7 +38,7 @@ If you enjoy my work and would like to support me, feel free to treat me to a cu
 ## 🌍 **Connect with Me**
 - 📍 **Location**: Belgaum, Karnataka, India
 - 📧 **Email**: [shreehariBhekane07@gmail.com](mailto:shreehariBhekane07@gmail.com)
-- 🌐 **Portfolio**: [shreehariportfolio.com](https://shreehariportfolio.com) 
+- 🌐 **Portfolio**: [shreehariportfolio.com](https://sbcoder1.github.io/myPortfolio/) 
 - 🔗 **LinkedIn**: [https://www.linkedin.com/in/sbcoder175/](https://www.linkedin.com/in/sbcoder175/)
 
 ---
