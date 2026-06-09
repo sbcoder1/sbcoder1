@@ -218,7 +218,7 @@ ChatGPT-style interface clone, an AI general assistant, and a waiter chatbot —
 
 > Active Directory · DNS · DHCP · IIS · AD CS · Group Policy · GitLab
 
-5+ VMs replicating a full corporate network. Configured AD Domain Controller, DNS, DHCP, NTP, AD CS, Group Policy, IIS hosting, and GitLab — 100% self-initiated.
+3+ VMs replicating a full corporate network. Configured AD Domain Controller, DNS, DHCP, NTP, AD CS, Group Policy, IIS hosting, and GitLab — 100% self-initiated.
 
 ---
 
