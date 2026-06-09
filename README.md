@@ -1,254 +1,343 @@
 <div align="center">
 
-<!-- Futuristic Neural Network Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,50:0d1f3c,100:0a0a1a&height=280&section=header&text=SHREEHARI%20BHEKANE&fontSize=52&fontColor=00f5ff&fontAlignY=40&stroke=00f5ff&strokeWidth=1&desc=⬡%20Full-Stack%20Engineer%20%7C%20AI%20Systems%20%7C%20Cloud%20Architect%20%7C%20QA%20Engineer%20⬡&descAlignY=62&descSize=15&descColor=7df9ff&animation=fadeIn" />
-
-<!-- Animated Status Line -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&multiline=true&width=750&height=70&lines=◈+Architecting+intelligent+systems+across+the+full+stack+◈;◈+AI+%7C+Cloud+%7C+Backend+%7C+Frontend+%7C+QA+Automation+◈;◈+MCA+2026+%7C+Open+to+SDE+%2F+AI+%2F+Cloud+%2F+QA+roles+◈" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Holographic Status Badges -->
-<img src="https://img.shields.io/badge/⬡_STATUS-OPEN%20TO%20WORK-00f5ff?style=flat-square&labelColor=0a0a1a&color=00f5ff" />
-&nbsp;
-<img src="https://img.shields.io/badge/⬡_NODE-BELAGAVI%2C%20KA-7df9ff?style=flat-square&labelColor=0a0a1a" />
-&nbsp;
-<img src="https://img.shields.io/badge/⬡_BUILD-MCA%202026-a78bfa?style=flat-square&labelColor=0a0a1a" />
-&nbsp;
-<img src="https://img.shields.io/badge/⬡_STACK-Full--Stack%20%2B%20AI%20%2B%20Cloud-00ff88?style=flat-square&labelColor=0a0a1a" />
-
-<br/><br/>
-
-<!-- Profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=sbcoder1&style=flat-square&color=00f5ff&label=PROFILE+SCANS" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,30:020818,70:020818,100:000000&height=260&section=header&text=SHREEHARI%20BHEKANE&fontSize=54&fontColor=00f5ff&fontAlignY=45&stroke=00c8ff&strokeWidth=2&desc=◈%20Full-Stack%20·%20AI%20·%20Software%20·%20QA%20·%20Cloud%20Engineer%20◈&descAlignY=68&descSize=14&descColor=4fc3f7&animation=fadeIn" />
 
 </div>
-
----
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  SYSTEM IDENTITY — SHREEHARI BHEKANE                                    ║
-║  ┌─────────────────────────────────────────────────────────────────┐    ║
-║  │  ROLE     →  Full-Stack · AI · Software · QA · Cloud Engineer   │    ║
-║  │  BASE     →  Belagavi, Karnataka, India                         │    ║
-║  │  BUILD    →  MCA @ Jain College of Engineering (2026)           │    ║
-║  │  STATUS   →  Active · Internship @ PAT Technologies (VTU)       │    ║
-║  │  SIGNAL   →  shreeharibhekane07@gmail.com                       │    ║
-║  └─────────────────────────────────────────────────────────────────┘    ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## ⬡ ABOUT.init()
-
-I build production-grade software end-to-end — from intelligent backend APIs and AI-powered data pipelines to responsive frontends and enterprise cloud infrastructure. Currently wrapping up my MCA while shipping real applications in a live Agile team.
-
-I care about **systems that actually work** — clean architecture, solid testing, and deployment that doesn't break at 2am.
-
-```yaml
-interests:
-  - Full-Stack Application Architecture
-  - AI / ML Integration in Production Systems
-  - Cloud-Native Infrastructure (AWS)
-  - QA Automation & Test Engineering
-  - Deep Learning Pipelines
-  - DevOps & CI/CD
-
-open_to:
-  - SDE / Full-Stack Engineer
-  - AI / ML Engineer
-  - Software Engineer
-  - QA / SDET Automation Engineer
-  - Cloud Engineer / Solutions Architect
-
-currently:
-  - Internship @ PAT Technologies Pvt. Ltd. (VTU Approved)
-  - Shipping 3+ live web apps in a fully remote Agile/Scrum team
-```
-
----
-
-## ⬡ TECH.MATRIX
 
 <div align="center">
 
-**◈ Languages ◈**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&multiline=true&width=680&height=60&lines=⟫+Architecting+production-grade+systems+across+the+full+stack+⟪;⟫+AI+pipelines+·+Cloud+infra+·+REST+APIs+·+QA+automation+⟪;⟫+MCA+2026+·+Available+for+SDE+%2F+AI+%2F+Cloud+%2F+QA+roles+⟪" alt="Typing SVG" /></a>
 
-![Python](https://img.shields.io/badge/Python-0a0a1a?style=for-the-badge&logo=python&logoColor=00f5ff&labelColor=0d1f3c)
-![Java](https://img.shields.io/badge/Java-0a0a1a?style=for-the-badge&logo=openjdk&logoColor=00f5ff&labelColor=0d1f3c)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a1a?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=0d1f3c)
-![C](https://img.shields.io/badge/C-0a0a1a?style=for-the-badge&logo=c&logoColor=00f5ff&labelColor=0d1f3c)
+<br/><br/>
 
-**◈ Frontend ◈**
+![Status](https://img.shields.io/badge/◈%20STATUS-OPEN%20TO%20WORK-00f5ff?style=flat-square&labelColor=020818)
+![Location](https://img.shields.io/badge/◈%20BASE-Belagavi%2C%20Karnataka-4fc3f7?style=flat-square&labelColor=020818)
+![Degree](https://img.shields.io/badge/◈%20BUILD-MCA%202026-a78bfa?style=flat-square&labelColor=020818)
+![Roles](https://img.shields.io/badge/◈%20ROLES-FullStack%20·%20AI%20·%20Cloud%20·%20QA-00ff88?style=flat-square&labelColor=020818)
 
-![React](https://img.shields.io/badge/React-0a0a1a?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=0d1f3c)
-![Vite](https://img.shields.io/badge/Vite-0a0a1a?style=for-the-badge&logo=vite&logoColor=646cff&labelColor=0d1f3c)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0a1a?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4&labelColor=0d1f3c)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a1a?style=for-the-badge&logo=html5&logoColor=e34f26&labelColor=0d1f3c)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0a0a1a?style=for-the-badge&logo=bootstrap&logoColor=7952b3&labelColor=0d1f3c)
+<br/>
 
-**◈ Backend ◈**
-
-![Django](https://img.shields.io/badge/Django-0a0a1a?style=for-the-badge&logo=django&logoColor=00f5ff&labelColor=0d1f3c)
-![DRF](https://img.shields.io/badge/DRF-0a0a1a?style=for-the-badge&logo=django&logoColor=7df9ff&labelColor=0d1f3c)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a1a?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=0d1f3c)
-![Express](https://img.shields.io/badge/Express-0a0a1a?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=0d1f3c)
-![Flask](https://img.shields.io/badge/Flask-0a0a1a?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=0d1f3c)
-
-**◈ Databases & Cloud ◈**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a1a?style=for-the-badge&logo=postgresql&logoColor=4169e1&labelColor=0d1f3c)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a1a?style=for-the-badge&logo=mysql&logoColor=4479a1&labelColor=0d1f3c)
-![SQLite](https://img.shields.io/badge/SQLite-0a0a1a?style=for-the-badge&logo=sqlite&logoColor=00f5ff&labelColor=0d1f3c)
-![AWS](https://img.shields.io/badge/AWS-0a0a1a?style=for-the-badge&logo=amazonwebservices&logoColor=ff9900&labelColor=0d1f3c)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a1a?style=for-the-badge&logo=mongodb&logoColor=00ed64&labelColor=0d1f3c)
-
-**◈ AI / ML ◈**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-0a0a1a?style=for-the-badge&logo=opencv&logoColor=5c3ee8&labelColor=0d1f3c)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a1a?style=for-the-badge&logo=tensorflow&logoColor=ff6f00&labelColor=0d1f3c)
-![Keras](https://img.shields.io/badge/Keras-0a0a1a?style=for-the-badge&logo=keras&logoColor=d00000&labelColor=0d1f3c)
-![NumPy](https://img.shields.io/badge/NumPy-0a0a1a?style=for-the-badge&logo=numpy&logoColor=013243&labelColor=0d1f3c)
-![Pandas](https://img.shields.io/badge/Pandas-0a0a1a?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=0d1f3c)
-
-**◈ QA & DevOps ◈**
-
-![Selenium](https://img.shields.io/badge/Selenium-0a0a1a?style=for-the-badge&logo=selenium&logoColor=43b02a&labelColor=0d1f3c)
-![Postman](https://img.shields.io/badge/Postman-0a0a1a?style=for-the-badge&logo=postman&logoColor=ff6c37&labelColor=0d1f3c)
-![Git](https://img.shields.io/badge/Git-0a0a1a?style=for-the-badge&logo=git&logoColor=f05032&labelColor=0d1f3c)
-![Jira](https://img.shields.io/badge/Jira-0a0a1a?style=for-the-badge&logo=jira&logoColor=0052cc&labelColor=0d1f3c)
-![GitLab](https://img.shields.io/badge/GitLab-0a0a1a?style=for-the-badge&logo=gitlab&logoColor=fc6d26&labelColor=0d1f3c)
+![Profile Views](https://komarev.com/ghpvc/?username=sbcoder1&style=flat-square&color=00f5ff&label=PROFILE+SCANS)
 
 </div>
 
 ---
 
-## ⬡ PROJECT.CORE
+<div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  DEPLOYED SYSTEMS — PRODUCTION BUILDS                                   │
-└─────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                         SYSTEM :: IDENTITY NODE                             ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  OPERATOR  ›  Shreehari Bhekane                                             ║
+║  ROLES     ›  Full-Stack · AI · Software · QA · Cloud Engineer              ║
+║  BASE      ›  Belagavi, Karnataka, India                                    ║
+║  DEGREE    ›  MCA @ Jain College of Engineering  [ 2024 – 2026 ]            ║
+║  PREV      ›  BCA @ KLE RLS BCA Institute        [ 2021 – 2024 ]            ║
+║  STATUS    ›  ACTIVE — Internship @ PAT Technologies (VTU Approved)         ║
+║  SIGNAL    ›  shreeharibhekane07@gmail.com  ·  +91-9482049113               ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-### `[01]` 🏥 MediScanAI — Medical Imaging Intelligence Platform
-> **Stack:** Django · React · Vite · Tailwind CSS · OpenCV · Deep Learning · Flask · MySQL
+</div>
 
-[![Repo](https://img.shields.io/badge/◈_SOURCE-MediScanAI-00f5ff?style=flat-square&labelColor=0a0a1a)](https://github.com/sbcoder1/MediScan_Ai_Demos)
+---
 
-AI-powered web platform for CT scan analysis and multi-disease detection. Combines computer vision preprocessing via OpenCV with deep learning inference models served through a Flask microservice, unified behind a secure Django REST API with full patient records management and audit trails.
+## ⬡ &nbsp; ABOUT.CORE
 
-```
-CAPABILITIES  →  CT scan analysis · Multi-disease detection · Audit trails
-ARCHITECTURE  →  Microservice ML backend · REST API gateway · React frontend  
-DOMAIN        →  Medical AI · Healthcare Technology
+I build real, production-grade software end-to-end — intelligent backends, AI-integrated data pipelines, responsive frontends, cloud infrastructure, and automated test systems. Finishing my MCA while shipping live applications inside an Agile team.
+
+I care deeply about systems that **actually work**: clean architecture, solid QA coverage, and deployments that hold under pressure.
+
+```yaml
+currently_building:
+  - 3+ live web apps @ PAT Technologies (VTU Approved Internship)
+  - AI-powered medical imaging platform
+  - Enterprise incident management system
+
+open_to:
+  - SDE / Full-Stack Engineer
+  - AI / ML Software Engineer  
+  - Backend Engineer
+  - QA / SDET Automation Engineer
+  - Cloud Engineer / Solutions Architect
+
+learning_next:
+  - Cloud-native AWS deployment patterns
+  - Deep learning pipeline optimization
+  - Advanced prompt engineering & LLM integration
 ```
 
 ---
 
-### `[02]` 🛠️ InfraWiz — Enterprise Incident Management System
-> **Stack:** Django · React · REST APIs · MySQL · PostgreSQL
+## ⬡ &nbsp; TECH.MATRIX
 
-[![Repo](https://img.shields.io/badge/◈_SOURCE-InfraWiz-00f5ff?style=flat-square&labelColor=0a0a1a)](https://github.com/sbcoder1/Infrawiz_app)
+<div align="center">
 
-Full-stack incident tracking and operations platform with role-based access control, advanced filtering, pagination, and a real-time dashboard with live activity feeds and analytics. Built for enterprise workflow visibility.
+**`— LANGUAGES —`**
+
+![Python](https://img.shields.io/badge/Python-020818?style=for-the-badge&logo=python&logoColor=00f5ff)
+![Java](https://img.shields.io/badge/Java-020818?style=for-the-badge&logo=openjdk&logoColor=00f5ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-020818?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/TypeScript-020818?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![C](https://img.shields.io/badge/C-020818?style=for-the-badge&logo=c&logoColor=00f5ff)
+![HTML5](https://img.shields.io/badge/HTML5-020818?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-020818?style=for-the-badge&logo=css3&logoColor=1572b6)
+
+**`— FRONTEND —`**
+
+![React](https://img.shields.io/badge/React-020818?style=for-the-badge&logo=react&logoColor=61dafb)
+![Vite](https://img.shields.io/badge/Vite-020818?style=for-the-badge&logo=vite&logoColor=646cff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-020818?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-020818?style=for-the-badge&logo=bootstrap&logoColor=7952b3)
+
+**`— BACKEND —`**
+
+![Django](https://img.shields.io/badge/Django-020818?style=for-the-badge&logo=django&logoColor=00f5ff)
+![DRF](https://img.shields.io/badge/Django_REST-020818?style=for-the-badge&logo=django&logoColor=4fc3f7)
+![Node.js](https://img.shields.io/badge/Node.js-020818?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express.js-020818?style=for-the-badge&logo=express&logoColor=ffffff)
+![Flask](https://img.shields.io/badge/Flask-020818?style=for-the-badge&logo=flask&logoColor=ffffff)
+
+**`— DATABASE & CLOUD —`**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020818?style=for-the-badge&logo=postgresql&logoColor=4169e1)
+![MySQL](https://img.shields.io/badge/MySQL-020818?style=for-the-badge&logo=mysql&logoColor=4479a1)
+![MongoDB](https://img.shields.io/badge/MongoDB-020818?style=for-the-badge&logo=mongodb&logoColor=00ed64)
+![SQLite](https://img.shields.io/badge/SQLite-020818?style=for-the-badge&logo=sqlite&logoColor=00f5ff)
+![AWS](https://img.shields.io/badge/AWS-020818?style=for-the-badge&logo=amazonwebservices&logoColor=ff9900)
+
+**`— AI / ML —`**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-020818?style=for-the-badge&logo=opencv&logoColor=5c3ee8)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-020818?style=for-the-badge&logo=tensorflow&logoColor=ff6f00)
+![Keras](https://img.shields.io/badge/Keras-020818?style=for-the-badge&logo=keras&logoColor=d00000)
+![NumPy](https://img.shields.io/badge/NumPy-020818?style=for-the-badge&logo=numpy&logoColor=4dabcf)
+![Pandas](https://img.shields.io/badge/Pandas-020818?style=for-the-badge&logo=pandas&logoColor=e70488)
+
+**`— QA & DEVOPS —`**
+
+![Selenium](https://img.shields.io/badge/Selenium-020818?style=for-the-badge&logo=selenium&logoColor=43b02a)
+![Postman](https://img.shields.io/badge/Postman-020818?style=for-the-badge&logo=postman&logoColor=ff6c37)
+![Git](https://img.shields.io/badge/Git-020818?style=for-the-badge&logo=git&logoColor=f05032)
+![GitHub](https://img.shields.io/badge/GitHub-020818?style=for-the-badge&logo=github&logoColor=ffffff)
+![GitLab](https://img.shields.io/badge/GitLab-020818?style=for-the-badge&logo=gitlab&logoColor=fc6d26)
+![Jira](https://img.shields.io/badge/Jira-020818?style=for-the-badge&logo=jira&logoColor=0052cc)
+
+</div>
+
+---
+
+## ⬡ &nbsp; PROJECT.REGISTRY
+
+<div align="center">
 
 ```
-CAPABILITIES  →  RBAC · Real-time dashboard · Advanced filtering · Audit logs
-IMPACT        →  +40% workflow visibility improvement
-DOMAIN        →  Enterprise SaaS · Operations Management
+┌─────────────────────────────────────────────────────────────────────────────┐
+│   LIVE BUILDS  ·  REAL CODE  ·  PRODUCTION SYSTEMS                         │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+### &nbsp; `[ 01 ]` &nbsp; 🏥 MediScanAI — Medical Imaging Intelligence Platform
+
+<a href="https://github.com/sbcoder1/MediScan_Ai_Demos"><img src="https://img.shields.io/badge/◈_REPO-MediScan__Ai__Demos-00f5ff?style=flat-square&labelColor=020818" /></a>
+<a href="https://github.com/sbcoder1/Demo_MediScanAI"><img src="https://img.shields.io/badge/◈_DEMO-Demo__MediScanAI-4fc3f7?style=flat-square&labelColor=020818" /></a>
+<a href="https://github.com/sbcoder1/MediScan_Ai_Demo"><img src="https://img.shields.io/badge/◈_BUILD-MediScan__Ai__Demo-a78bfa?style=flat-square&labelColor=020818" /></a>
+
+> **Django · React · Vite · Tailwind CSS · OpenCV · Deep Learning · Flask · MySQL**
+
+AI web platform for CT scan analysis and multi-disease detection. OpenCV handles image preprocessing; deep learning models run inference via a Flask microservice; a Django REST API unifies everything with patient records, role management, and full audit trails.
+
+```
+ARCHITECTURE  ›  React frontend  →  Django REST gateway  →  Flask ML microservice
+CAPABILITIES  ›  CT scan analysis · Multi-disease detection · Patient records · Audit trails
+DOMAIN        ›  Medical AI  ·  Healthcare Technology
+REPOS         ›  MediScan_Ai_Demos · Demo_MediScanAI · MediScan_Ai_Demo
 ```
 
 ---
 
-### `[03]` 🤖 Chat Genius — Context-Aware AI Chatbot Engine
-> **Stack:** Node.js · Express.js · Google Gemini API · JWT Auth
+### &nbsp; `[ 02 ]` &nbsp; 🛠️ InfraWiz — Enterprise Incident Management System
 
-[![Repo](https://img.shields.io/badge/◈_SOURCE-ChatGenius-00f5ff?style=flat-square&labelColor=0a0a1a)](https://github.com/sbcoder1/Chat-Genius)
+<a href="https://github.com/sbcoder1/Infrawiz_app"><img src="https://img.shields.io/badge/◈_REPO-Infrawiz__app-00f5ff?style=flat-square&labelColor=020818" /></a>
+![JavaScript](https://img.shields.io/badge/JavaScript-020818?style=flat-square&logo=javascript&logoColor=f7df1e)
 
-Intelligent conversational AI with multi-turn memory, JWT session management, and prompt-engineered Gemini API integration. Designed against OpenAPI spec with RESTful endpoint architecture. Recognised for excellence in innovation at institution level.
+> **Django · React · REST APIs · MySQL · PostgreSQL**
 
-```
-CAPABILITIES  →  Multi-turn context · JWT auth · Prompt engineering · OpenAPI spec
-PERFORMANCE   →  Sub-800ms average response latency
-RECOGNITION   →  Final-year project — recognised for excellence in innovation
-```
-
----
-
-### `[04]` 📅 Django-BookEasy — Booking Management System
-> **Stack:** Django · Python · SQLite
-
-[![Repo](https://img.shields.io/badge/◈_SOURCE-BookEasy-00f5ff?style=flat-square&labelColor=0a0a1a)](https://github.com/sbcoder1/Django-BookEasy)
-
-Clean booking management application demonstrating full CRUD operations, user authentication flows, and well-structured Django URL routing patterns.
-
----
-
-### `[05]` 🌤️ RealTimeWeather — Live Weather Intelligence
-> **Stack:** Python · REST API Integration
-
-[![Repo](https://img.shields.io/badge/◈_SOURCE-WeatherApp-00f5ff?style=flat-square&labelColor=0a0a1a)](https://github.com/sbcoder1/RealTimeWeather-APP)
-
-Real-time weather data application consuming public weather APIs with current conditions, forecasts, and a clean Python interface.
-
----
-
-### `[06]` 🧪 Rule Engine with AST — Logic Parser
-> **Stack:** Python
-
-[![Repo](https://img.shields.io/badge/◈_SOURCE-RuleEngine-00f5ff?style=flat-square&labelColor=0a0a1a)](https://github.com/sbcoder1/-Rule-Engine-with-AST)
-
-Business rule engine that parses and evaluates dynamic rules using Abstract Syntax Tree traversal. Demonstrates strong algorithmic thinking, tree data structures, and parsing logic.
-
----
-
-### `[07]` 🖥️ Windows Server Enterprise Home Lab *(Physical Lab)*
-> **Stack:** Active Directory · DNS · DHCP · IIS · AD CS · Group Policy · GitLab
+Full-stack incident tracking system with role-based access control, advanced multi-field filtering, pagination, and a real-time dashboard with live activity feeds. Built for enterprise operations — the kind of system that runs NOCs and IT floors.
 
 ```
-SCOPE    →  5+ VMs replicating a full corporate network topology
-CONFIG   →  AD Domain Controller · DNS · DHCP · NTP · AD CS
-SERVICES →  IIS web hosting · Group Policy Objects · GitLab VCS
-METHOD   →  100% self-initiated and independently configured
-DOMAIN   →  Enterprise Infrastructure · Systems Administration
+CAPABILITIES  ›  RBAC · Real-time dashboard · Filtering & pagination · Activity logs
+IMPACT        ›  +40% improvement in workflow visibility
+DOMAIN        ›  Enterprise SaaS  ·  Operations Management
 ```
 
 ---
 
-## ⬡ EXPERIENCE.LOG
+### &nbsp; `[ 03 ]` &nbsp; 🤖 Chat Genius — Context-Aware AI Chatbot
+
+<a href="https://github.com/sbcoder1/Chat-Genius"><img src="https://img.shields.io/badge/◈_REPO-Chat--Genius-00f5ff?style=flat-square&labelColor=020818" /></a>
+![CSS](https://img.shields.io/badge/CSS-020818?style=flat-square&logo=css3&logoColor=1572b6)
+
+> **Node.js · Express.js · Google Gemini API · JWT Auth**
+
+Context-aware AI chatbot with multi-turn conversation memory, JWT session management, and prompt-engineered Gemini API integration. Designed against OpenAPI spec. Resolved 15+ integration issues pre-release. Recognised for innovation at institution level.
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  SIGNAL  →  Web Development Intern (Virtual / Remote)                   ║
-║  ORG     →  PAT Technologies Pvt. Ltd. (Edutainer) · VTU Approved       ║
-║  CYCLE   →  Feb 2026 – May 2026                                          ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  [✓]  Shipped 3+ live web applications across 4 Agile sprint cycles     ║
-║  [✓]  100% sprint task delivery rate · zero critical defects in prod     ║
-║  [✓]  Cross-timezone collaboration · peer-reviewed code standards        ║
-║  [✓]  Worked within Django + React stack in a structured Scrum team      ║
-╚══════════════════════════════════════════════════════════════════════════╝
+CAPABILITIES  ›  Multi-turn context · JWT auth · Prompt engineering · OpenAPI design
+PERFORMANCE   ›  Sub-800ms avg response latency
+RECOGNITION   ›  Final-year project — recognised for excellence in innovation
 ```
 
 ---
 
-## ⬡ EDUCATION.RECORDS
+### &nbsp; `[ 04 ]` &nbsp; 🌐 myPortfolio — Personal Developer Portfolio
 
-| `DEGREE` | `INSTITUTION` | `CGPA` | `SPAN` |
+<a href="https://github.com/sbcoder1/myPortfolio"><img src="https://img.shields.io/badge/◈_REPO-myPortfolio-00f5ff?style=flat-square&labelColor=020818" /></a>
+<a href="https://sbcoder1.github.io/myPortfolio"><img src="https://img.shields.io/badge/◈_LIVE-Launch_Site-00ff88?style=flat-square&labelColor=020818" /></a>
+![HTML](https://img.shields.io/badge/HTML-020818?style=flat-square&logo=html5&logoColor=e34f26)
+
+> **HTML · CSS · JavaScript**
+
+Live personal portfolio showcasing projects, skills, and experience. Deployed via GitHub Pages.
+
+---
+
+### &nbsp; `[ 05 ]` &nbsp; 🧠 CHATGPT — AI Interface Clone
+
+<a href="https://github.com/sbcoder1/CHATGPT"><img src="https://img.shields.io/badge/◈_REPO-CHATGPT-00f5ff?style=flat-square&labelColor=020818" /></a>
+![JavaScript](https://img.shields.io/badge/JavaScript-020818?style=flat-square&logo=javascript&logoColor=f7df1e)
+
+> **JavaScript · API Integration**
+
+A ChatGPT-style interface implementation demonstrating AI API integration, conversation state management, and responsive chat UI patterns.
+
+---
+
+### &nbsp; `[ 06 ]` &nbsp; 🤖 MrNikoAi & NikoTheWaiter — AI Assistants
+
+<a href="https://github.com/sbcoder1/MrNikoAi"><img src="https://img.shields.io/badge/◈_REPO-MrNikoAi-00f5ff?style=flat-square&labelColor=020818" /></a>
+<a href="https://github.com/sbcoder1/NikoTheWaiter"><img src="https://img.shields.io/badge/◈_REPO-NikoTheWaiter-4fc3f7?style=flat-square&labelColor=020818" /></a>
+
+> **JavaScript · HTML · AI Integration**
+
+Pair of AI assistant projects — an intelligent assistant and a waiter AI chatbot — exploring different application domains for conversational AI, intent recognition, and response generation.
+
+---
+
+### &nbsp; `[ 07 ]` &nbsp; 📅 Django-BookEasy — Booking Management System
+
+<a href="https://github.com/sbcoder1/Django-BookEasy"><img src="https://img.shields.io/badge/◈_REPO-Django--BookEasy-00f5ff?style=flat-square&labelColor=020818" /></a>
+![Python](https://img.shields.io/badge/Python-020818?style=flat-square&logo=python&logoColor=00f5ff)
+
+> **Django · Python · SQLite**
+
+Full CRUD booking management with Django authentication, clean URL routing, and structured data models.
+
+---
+
+### &nbsp; `[ 08 ]` &nbsp; 🌤️ RealTimeWeather-APP — Live Weather Engine
+
+<a href="https://github.com/sbcoder1/RealTimeWeather-APP"><img src="https://img.shields.io/badge/◈_REPO-RealTimeWeather--APP-00f5ff?style=flat-square&labelColor=020818" /></a>
+![Python](https://img.shields.io/badge/Python-020818?style=flat-square&logo=python&logoColor=00f5ff)
+
+> **Python · REST API Integration**
+
+Real-time weather data app consuming public weather APIs — current conditions, forecasts, clean Python interface.
+
+---
+
+### &nbsp; `[ 09 ]` &nbsp; 🧪 Rule Engine with AST — Logic Parser
+
+<a href="https://github.com/sbcoder1/-Rule-Engine-with-AST"><img src="https://img.shields.io/badge/◈_REPO-Rule--Engine--AST-00f5ff?style=flat-square&labelColor=020818" /></a>
+![Python](https://img.shields.io/badge/Python-020818?style=flat-square&logo=python&logoColor=00f5ff)
+
+> **Python · Algorithms · Data Structures**
+
+Business rule engine parsing and evaluating dynamic rules via Abstract Syntax Tree traversal. Demonstrates strong algorithmic thinking, tree structures, and parsing logic.
+
+---
+
+### &nbsp; `[ 10 ]` &nbsp; 💪 WellWatch & OneLifeFitness — Health & Fitness Apps
+
+<a href="https://github.com/sbcoder1/wellwatch"><img src="https://img.shields.io/badge/◈_REPO-wellwatch-00f5ff?style=flat-square&labelColor=020818" /></a>
+<a href="https://github.com/sbcoder1/onelifefitness"><img src="https://img.shields.io/badge/◈_REPO-onelifefitness-4fc3f7?style=flat-square&labelColor=020818" /></a>
+![CSS](https://img.shields.io/badge/CSS-020818?style=flat-square&logo=css3&logoColor=1572b6)
+
+> **HTML · CSS · JavaScript**
+
+Health and fitness web applications with clean UI design, wellness tracking features, and responsive layouts.
+
+---
+
+### &nbsp; `[ 11 ]` &nbsp; 🎵 Spotify Clone — UI Engineering
+
+<a href="https://github.com/sbcoder1/spotify"><img src="https://img.shields.io/badge/◈_REPO-spotify-00f5ff?style=flat-square&labelColor=020818" /></a>
+![CSS](https://img.shields.io/badge/CSS-020818?style=flat-square&logo=css3&logoColor=1572b6)
+
+> **HTML · CSS**
+
+Pixel-perfect Spotify UI clone — demonstrates strong CSS layout skills, component design, and visual precision.
+
+---
+
+### &nbsp; `[ 12 ]` &nbsp; 🖥️ Windows Server Enterprise Lab &nbsp; *(Physical Lab — no repo)*
+
+> **Active Directory · DNS · DHCP · IIS · AD CS · Group Policy · GitLab**
+
+```
+SCOPE     ›  5+ VMs replicating a full corporate network topology
+CONFIG    ›  AD Domain Controller · DNS · DHCP · NTP · AD CS
+SERVICES  ›  IIS web hosting · Group Policy Objects · GitLab VCS
+BUILD     ›  100% self-initiated and independently configured
+DOMAIN    ›  Enterprise Infrastructure  ·  Systems Administration
+```
+
+---
+
+## ⬡ &nbsp; EXPERIENCE.LOG
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  ROLE     ›  Web Development Intern  ( Virtual / Remote )                   ║
+║  ORG      ›  PAT Technologies Pvt. Ltd. (Edutainer)  —  VTU Approved        ║
+║  CYCLE    ›  Feb 2026  →  May 2026                                           ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  [ ✓ ]  Shipped 3+ live web apps across 4 Agile sprint cycles               ║
+║  [ ✓ ]  100% sprint task delivery  ·  zero critical defects in production   ║
+║  [ ✓ ]  Cross-timezone remote collaboration  ·  peer-reviewed code          ║
+║  [ ✓ ]  Django + React stack in a structured Scrum environment               ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## ⬡ &nbsp; EDUCATION.RECORDS
+
+<div align="center">
+
+| &nbsp; `DEGREE` &nbsp; | &nbsp; `INSTITUTION` &nbsp; | &nbsp; `CGPA` &nbsp; | &nbsp; `YEAR` &nbsp; |
 |:---:|:---:|:---:|:---:|
 | **MCA** | Jain College of Engineering, Belagavi | 7.0 / 10 | 2024 – 2026 |
 | **BCA** | KLE RLS BCA Institute, Belagavi | 7.34 / 10 | 2021 – 2024 |
 
+</div>
+
 ---
 
-## ⬡ CERTIFICATIONS.STACK
+## ⬡ &nbsp; CERTIFICATIONS.STACK
 
-| `CREDENTIAL` | `ISSUER` | `YEAR` |
+<div align="center">
+
+| &nbsp; `CREDENTIAL` &nbsp; | &nbsp; `ISSUER` &nbsp; | &nbsp; `YEAR` &nbsp; |
 |:---|:---|:---:|
 | MongoDB Developer Learning Path | MongoDB University | 2024 |
 | Python Programming | Udemy | 2024 |
@@ -257,77 +346,83 @@ DOMAIN   →  Enterprise Infrastructure · Systems Administration
 | Deloitte Cyber Job Simulation | Forage | 2025 |
 | Get the Most Out of Jira | Atlassian | 2026 |
 
----
-
-## ⬡ WORKSHOPS.UPLINK
-
-```
-[◈] AI & Machine Learning
-    └── Image Recognition & Object Detection with OpenCV + Python
-
-[◈] Data Analytics with Power BI
-    └── Data Transformation, Visualization & Dashboard Development
-```
+</div>
 
 ---
 
-## ⬡ METRICS.DASHBOARD
+## ⬡ &nbsp; WORKSHOPS.UPLINK
+
+```
+[ ◈ ]  AI & Machine Learning
+        └─  Image Recognition & Object Detection  →  OpenCV + Python
+
+[ ◈ ]  Data Analytics with Power BI
+        └─  Data Transformation · Visualization · Dashboard Development
+```
+
+---
+
+## ⬡ &nbsp; METRICS.DASHBOARD
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sbcoder1&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0a0a1a&title_color=00f5ff&icon_color=7df9ff&text_color=8ab4d8&ring_color=00f5ff" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=sbcoder1&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=020818&title_color=00f5ff&icon_color=4fc3f7&text_color=8ab4d8&include_all_commits=true" height="175" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbcoder1&layout=compact&hide_border=true&theme=tokyonight&bg_color=0a0a1a&title_color=00f5ff&text_color=8ab4d8&langs_count=8" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbcoder1&layout=compact&hide_border=true&theme=tokyonight&bg_color=020818&title_color=00f5ff&text_color=8ab4d8&langs_count=8" height="175" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sbcoder1&theme=tokyonight&hide_border=true&background=0a0a1a&ring=00f5ff&fire=7df9ff&currStreakLabel=00f5ff&sideLabels=8ab4d8&dates=8ab4d8" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sbcoder1&theme=tokyonight&hide_border=true&background=020818&ring=00f5ff&fire=4fc3f7&currStreakLabel=00f5ff&sideLabels=8ab4d8&dates=8ab4d8&sideNums=00f5ff" alt="Streak Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sbcoder1&bg_color=0a0a1a&color=00f5ff&line=7df9ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sbcoder1&bg_color=020818&color=00f5ff&line=4fc3f7&point=ffffff&area=true&area_color=00f5ff&hide_border=true" alt="Activity Graph" />
 
 </div>
 
 ---
 
-## ⬡ CONNECT.UPLINK
+## ⬡ &nbsp; CONNECT.UPLINK
 
-<div align="left">
+<div align="center">
 
 <a href="https://sbcoder1.github.io/myPortfolio" target="_blank">
-  <img src="https://img.shields.io/badge/◈_PORTFOLIO-Launch_Interface-00f5ff?style=for-the-badge&labelColor=0a0a1a" />
+  <img src="https://img.shields.io/badge/◈%20PORTFOLIO-Launch%20Interface-00f5ff?style=for-the-badge&labelColor=020818" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/sbcoder175/" target="_blank">
-  <img src="https://img.shields.io/badge/◈_LINKEDIN-Connect_Node-0a66c2?style=for-the-badge&labelColor=0a0a1a" />
+  <img src="https://img.shields.io/badge/◈%20LINKEDIN-Connect%20Node-0a66c2?style=for-the-badge&labelColor=020818" />
+</a>
+&nbsp;
+<a href="https://github.com/sbcoder1" target="_blank">
+  <img src="https://img.shields.io/badge/◈%20GITHUB-19%20Repositories-ffffff?style=for-the-badge&labelColor=020818&logo=github" />
 </a>
 &nbsp;
 <a href="mailto:shreeharibhekane07@gmail.com">
-  <img src="https://img.shields.io/badge/◈_GMAIL-Send_Signal-d14836?style=for-the-badge&labelColor=0a0a1a" />
+  <img src="https://img.shields.io/badge/◈%20GMAIL-Send%20Signal-d14836?style=for-the-badge&labelColor=020818" />
 </a>
 
+<br/><br/>
+
+```
+LOCATION  ›  Belagavi, Karnataka, India
+CONTACT   ›  +91-9482049113
+MAIL      ›  shreeharibhekane07@gmail.com
+PORTFOLIO ›  sbcoder1.github.io/myPortfolio
+GITHUB    ›  github.com/sbcoder1
+LINKEDIN  ›  linkedin.com/in/sbcoder175
+```
+
 </div>
-
-<br/>
-
-```
-LOCATION  →  Belagavi, Karnataka, India
-CONTACT   →  +91-9482049113
-MAIL      →  shreeharibhekane07@gmail.com
-GITHUB    →  github.com/sbcoder1
-LINKEDIN  →  linkedin.com/in/sbcoder175
-```
 
 ---
 
 <div align="center">
 
-<!-- Quote -->
 *"The best systems are invisible — they just work."*
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,50:0d1f3c,100:0a0a1a&height=120&section=footer&text=SHREEHARI.BHEKANE&fontSize=20&fontColor=00f5ff&fontAlignY=55&stroke=00f5ff&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,40:020818,60:020818,100:000000&height=100&section=footer&text=SHREEHARI%20·%20BHEKANE&fontSize=18&fontColor=00f5ff&fontAlignY=55&stroke=00c8ff&strokeWidth=1" />
 
 </div>
