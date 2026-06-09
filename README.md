@@ -238,10 +238,10 @@ ChatGPT-style interface clone, an AI general assistant, and a waiter chatbot —
 
 <div align="center">
 
-| Degree | Institution | CGPA | Year |
-|:---:|:---:|:---:|:---:|
-| **MCA** | Jain College of Engineering, Belagavi | 7.0 / 10 | 2024 – 2026 |
-| **BCA** | KLE RLS BCA Institute, Belagavi | 7.34 / 10 | 2021 – 2024 |
+| Degree | Institution | University | CGPA | Year |
+|:---:|:---:|:---:|:---:|:---:|
+| **MCA** | Jain College of Engineering, Belagavi | Visvesvaraya Technological University (VTU) | 7.0 / 10 | 2024 – 2026 |
+| **BCA** | KLE RLS BCA Institute, Belagavi | KLE Technological University | 7.34 / 10 | 2021 – 2024 |
 
 </div>
 
