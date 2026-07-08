@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-Fresher%202026-00e5ff?style=flat-square&labelColor=0a1628" />
 &nbsp;
-<img src="https://img.shields.io/badge/Location-Belagavi%2C%20Karnataka-90caf9?style=flat-square&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/Location-Bengaluru%2C%20Karnataka-90caf9?style=flat-square&labelColor=0a1628" />
 &nbsp;
 <img src="https://img.shields.io/badge/Degree-MCA%202026-ce93d8?style=flat-square&labelColor=0a1628" />
 &nbsp;
