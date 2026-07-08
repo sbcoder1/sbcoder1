@@ -46,7 +46,7 @@ I'm actively looking for my **first full-time role** as a:
 - 🌱 **Learning:** AWS cloud-native patterns · deep learning pipelines · LLM prompt engineering
 - 💬 **Ask me about:** Django · React · REST APIs · OpenCV · Selenium · System design basics
 - 📬 **Email:** [shreeharibhekane07@gmail.com](mailto:shreeharibhekane07@gmail.com)
-- 📍 **Location:** Belagavi, Karnataka, India
+- 📍 **Location:** Bengaluru, Karnataka, India
 
 ---
 
