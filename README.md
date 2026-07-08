@@ -141,6 +141,14 @@ Full-stack incident tracking system with RBAC, multi-field filtering, pagination
 
 ---
 
+### 🖥️ Windows Server Enterprise Lab *(Physical — no repo)*
+
+> Active Directory · DNS · DHCP · IIS · AD CS · Group Policy · GitLab
+
+3+ VMs replicating a full corporate network. Configured AD Domain Controller, DNS, DHCP, NTP, AD CS, Group Policy, IIS hosting, and GitLab — 100% self-initiated.
+
+---
+
 ### 🤖 Chat Genius — AI Chatbot
 
 <a href="https://github.com/sbcoder1/Chat-Genius"><img src="https://img.shields.io/badge/Repo-Chat--Genius-00e5ff?style=flat-square&labelColor=0a1628" /></a>
@@ -177,7 +185,7 @@ ChatGPT-style interface clone, an AI general assistant, and a waiter chatbot —
 
 ---
 
-### 📅 Django-BookEasy — Booking System
+### 📅 AuraLib-Library-Book-Management-System
 
 <a href="https://github.com/sbcoder1/Django-BookEasy"><img src="https://img.shields.io/badge/Repo-Django--BookEasy-00e5ff?style=flat-square&labelColor=0a1628" /></a>
 ![Python](https://img.shields.io/badge/Python-0a1628?style=flat-square&logo=python&logoColor=00e5ff)
@@ -211,14 +219,6 @@ ChatGPT-style interface clone, an AI general assistant, and a waiter chatbot —
 <a href="https://github.com/sbcoder1/spotify"><img src="https://img.shields.io/badge/Repo-spotify-ce93d8?style=flat-square&labelColor=0a1628" /></a>
 
 > HTML · CSS — Health tracking apps and a pixel-perfect Spotify UI clone. Strong CSS layout, component design, and visual precision.
-
----
-
-### 🖥️ Windows Server Enterprise Lab *(Physical — no repo)*
-
-> Active Directory · DNS · DHCP · IIS · AD CS · Group Policy · GitLab
-
-3+ VMs replicating a full corporate network. Configured AD Domain Controller, DNS, DHCP, NTP, AD CS, Group Policy, IIS hosting, and GitLab — 100% self-initiated.
 
 ---
 
